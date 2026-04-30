@@ -53,11 +53,14 @@ Query Optimization • Caching • Performance
 
 ## Core Work
 
-- Handling multi-step execution flows across services  
-- Managing delayed and retried operations  
-- Debugging across API → queue → worker → database  
-- Fixing slow endpoints and inefficient queries  
-- Improving predictability of system behavior  
+- Designing and maintaining backend services across multiple components  
+- Handling multi-step execution flows and state transitions  
+- Managing delayed, retried, and dependent operations  
+- Debugging issues across API → queue → worker → database  
+- Fixing slow endpoints and optimizing database queries  
+- Improving system behavior under load and real traffic  
+- Handling edge cases and failure scenarios in production  
+- Ensuring data consistency across different system states   
 
 ---
 
