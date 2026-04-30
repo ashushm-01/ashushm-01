@@ -8,9 +8,11 @@ Backend Engineer | Distributed Systems, Background Jobs, Debugging & Reliability
 
 Backend engineer working on systems where multiple services interact and depend on each other.
 
-Builds APIs and backend services that handle real-world scenarios such as retries, failures, and inconsistent states across components.
+Builds APIs and backend services that handle real-world scenarios such as failures, retries, and inconsistent states across components.
 
-Focuses on debugging running systems, improving performance through better data access patterns, and ensuring stable behavior under load.
+Focuses on **debugging running systems**, improving performance through **query optimization and efficient data access**, and ensuring **stable behavior under real-world load**.
+
+Works across the full flow — from request handling to background jobs and data persistence — with an emphasis on **predictability, reliability, and maintainability**.
 
 ---
 
@@ -56,11 +58,11 @@ Query Optimization • Caching • Performance
 - Designing and maintaining backend services across multiple components  
 - Handling multi-step execution flows and state transitions  
 - Managing delayed, retried, and dependent operations  
-- Debugging issues across API → queue → worker → database  
+- Debugging across API → queue → worker → database  
 - Fixing slow endpoints and optimizing database queries  
 - Improving system behavior under load and real traffic  
 - Handling edge cases and failure scenarios in production  
-- Ensuring data consistency across different system states   
+- Ensuring data consistency across different system states  
 
 ---
 
